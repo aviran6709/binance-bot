@@ -1,0 +1,22 @@
+{
+  "name": "bainance-bot",
+  "version": "1.0.0",
+  "description": "",
+  "main": "bot.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": " node botTest.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^1.6.8",
+    "binance-api-node": "^0.12.7",
+    "candlestick": "^0.0.5",
+    "node-binance-api": "^0.13.1",
+    "openai": "^4.29.2",
+    "talib": "^1.1.5",
+    "technicalindicators": "^3.1.0",
+    "ws": "^8.16.0"
+  }
+}
